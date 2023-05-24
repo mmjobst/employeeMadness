@@ -1,0 +1,82 @@
+[
+      {
+          "name": "hammer",
+          "type": "tool",
+          "amount": 5
+      },
+      {
+          "name": "screwdriver",
+          "type": "tool",
+          "amount": 3
+      },
+      {
+          "name": "ax",
+          "type": "tool",
+          "amount": 12
+      },
+      {
+          "name": "drill",
+          "type": "tool",
+          "amount": 6
+      },
+      {
+          "name": "thermometer",
+          "type": "lab",
+          "amount": 2
+      },
+      {
+          "name": "microscope",
+          "type": "lab",
+          "amount": 3
+      },
+      {
+          "name": "dropper",
+          "type": "lab",
+          "amount": 7
+      },
+      {
+          "name": "beaker",
+          "type": "lab",
+          "amount": 12
+      },
+      {
+          "name": "shovel",
+          "type": "gardening",
+          "amount": 5
+      },
+      {
+          "name": "hoe",
+          "type": "gardening",
+          "amount": 9
+      },
+      {
+          "name": "rake",
+          "type": "gardening",
+          "amount": 2
+      },
+      {
+          "name": "spade",
+          "type": "gardening",
+          "amount": 1
+      },
+      {
+          "name": "keyboard",
+          "type": "office",
+          "amount": 15
+      },
+      {
+          "name": "mouse",
+          "type": "office",
+          "amount": 3
+      },
+      {
+          "name": "laptop",
+          "type": "office",
+          "amount": 7
+      },
+      {
+          "name": "printer",
+          "type": "office",
+          "amount": 5
+      }
+  ]
